@@ -28,12 +28,11 @@ import (
 	"bytes"
 	"crypto/sha1"
 	"crypto/sha256"
+	"github.com/whimax/mathutil"
 	"hash"
 	"math/big"
 	"math/rand"
 	"time"
-
-	"modernc.org/mathutil"
 )
 
 const (
